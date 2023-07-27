@@ -1,0 +1,22 @@
+/* ul li a{
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: purple;
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+} */
+
+/* ul li {
+    display: inline-block;
+    list-style: none;
+} */
+
+section ul {
+    list-style-type: square;
+}
+
+section ol li {
+    list-style-type: lower-roman;
+
+}
